@@ -28,7 +28,7 @@ The raw dataset includes the following core fields:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Vivek-07-dev/911Calls-Data_Capstone_Project.git
    ```
 
 2. **Install required dependencies:**
@@ -47,8 +47,8 @@ The raw dataset includes the following core fields:
 
 ## 📈 Key Insights & Visualizations
 * **Top Reason for Calls:** **EMS (Emergency Medical Services)** consistently stands out as the most common overall reason for emergency dispatches, followed closely by Traffic accidents.
-* **Temporal Patterns:** Call volumes show a predictable daily curve, peaking in the late afternoon and dropping drastically during early morning hours (1:00 AM – 5:00 AM).
+* **Temporal Patterns:** Call volumes show a predictable daily curve, peaking in the late afternoon and dropping drastically during early morning hours (0:00 – 6:00).
 * **Weekly Trends:** Heatmaps reveal that emergency call distributions are lighter on Saturdays and Sundays compared to working weekdays.
 
 ## 👥 Author
-* **Your Name** - [Your GitHub Profile](https://github.com) / [Your LinkedIn](https://linkedin.com)
+* **Vivek Pal** - [GitHub Profile](https://github.com/Vivek-07-dev/) / [LinkedIn](https://www.linkedin.com/in/vivek-pal-498145314)
