@@ -1,6 +1,5 @@
 # 911 Calls-Data_Capstone_Project
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 
 
@@ -37,7 +36,7 @@ The raw dataset includes the following core fields:
    ```
 
 3. **Open the notebook:**
-   Launch Jupyter Notebook and run `Emergency_Calls_Capstone.ipynb`.
+   Launch Jupyter Notebook and run `911-calls-analysis.ipynb`.
 
 ## 📊 Project Steps & Methodology
 * **Feature Engineering:** Splitting the `title` column to create a new `Reason` categorical column (EMS, Fire, Traffic).
