@@ -3,7 +3,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 
 
-## 📋 Executive Summary
+## 📋 Summary
 * **Objective:** An exploratory data analysis of 911 emergency call data to uncover temporal trends, common call reasons and identify peak times of call arrival.
 * **Dataset:** Sourced from [Kaggle's Emergency Calls Dataset](https://www.kaggle.com/datasets/mchirico/montcoalert), containing attributes like latitude, longitude, description, zipcode, timestamp, and township.
 * **Key Finding:** Emergency calls sharply increase during standard daytime hours (15:00 – 17:00) and heavily taper off on weekends(Sat/Sun) compared to weekdays.
