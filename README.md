@@ -1,7 +1,5 @@
 # 911 Calls-Data_Capstone_Project
 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-
 
 ## Summary
 * **Objective:** An exploratory data analysis of 911 emergency call data to uncover temporal trends, common call reasons and identify peak times of call arrival.
